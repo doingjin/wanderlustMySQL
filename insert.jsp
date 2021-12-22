@@ -124,7 +124,7 @@
 	<script src="js/jquery.countTo.js"></script>
 	<!-- Google Map API -->
 	<script async defer
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2O-wjFf77N1RbEEuWc0WdZ3FN_Kp95w4&callback=initMap">
+		src="https://maps.googleapis.com/maps/api/js?key=your OWN API key here&callback=initMap">
 	</script>
 
 	<!-- MAIN JS -->
