@@ -162,7 +162,7 @@
 	<script src="js/jquery.countTo.js"></script>
 	<!-- Google Map -->
 	<script
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtMXo8bznXFVyvhafIvaUNP54-VmXTyks"></script>
+		src="https://maps.googleapis.com/maps/api/js?key=your OWN API key here"></script>
 	<script src="js/google_map.js"></script>
 
 
